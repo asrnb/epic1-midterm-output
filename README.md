@@ -1,2 +1,2 @@
-# epic1-midterm-output
+# An overview of Color
 Python Turtle Graphics – Mandala Art
