@@ -1,4 +1,4 @@
-# An overview of Color
+# RGB
 Python Turtle Graphics – Mandala Art <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
 Red - The color of passion and energy. Red draws attention like no other color and radiates a strong and powerful energy that motivates us to take action. It is also linked to sexuality and stimulates deep and intimate passion. Red is ubiquitously used to warn and signal caution and danger. <br>
