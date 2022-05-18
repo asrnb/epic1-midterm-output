@@ -1,7 +1,7 @@
 # RGB
 Python Turtle Graphics – Mandala Art <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
-I choose this design because <b>color</b> is perception. Our eyes see something (the sky, for example), and data sent from our eyes to our brains tells us it’s a certain color (blue). Objects reflect light in different combinations of wavelengths. Our brains pick up on those wavelength combinations and translate them into the phenomenon we call color.<hr>
+I choose this design RGB color changing mandala art because <b>color</b> is perception. Our eyes see something (the sky, for example), and data sent from our eyes to our brains tells us it’s a certain color (blue). Objects reflect light in different combinations of wavelengths. Our brains pick up on those wavelength combinations and translate them into the phenomenon we call color.<hr>
 
 ## Color
 Red - The color of passion and energy. Red draws attention like no other color and radiates a strong and powerful energy that motivates us to take action. It is also linked to sexuality and stimulates deep and intimate passion. Red is ubiquitously used to warn and signal caution and danger.
