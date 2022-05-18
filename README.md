@@ -7,5 +7,5 @@ Blue - The color of trust and loyalty. Blue has a calming and relaxing effect on
 
 ![mandala-img2](https://user-images.githubusercontent.com/99663957/168972865-2c2f2e6e-115f-4268-b20c-f511ca9c2102.png)
 
-
+![mandala-img](https://user-images.githubusercontent.com/99663957/168973054-87cac973-fe4e-4a00-9e1f-f64c520bf0b0.png)
 
