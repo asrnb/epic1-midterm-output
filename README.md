@@ -12,5 +12,5 @@ Blue - The color of trust and loyalty. Blue has a calming and relaxing effect on
 ![mandala-img2](https://user-images.githubusercontent.com/99663957/168972865-2c2f2e6e-115f-4268-b20c-f511ca9c2102.png)
 
 ### References
-[Color](https://www.color-meanings.com/)
+[Color](https://www.color-meanings.com/) <br>
 [Circle](https://pythonturtle.academy/n-overlapping-circle-with-python-and-turtle-source-code/)
